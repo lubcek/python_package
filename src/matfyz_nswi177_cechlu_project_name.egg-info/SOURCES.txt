@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/matfyz_nswi177_cechlu_project_name.egg-info/PKG-INFO
+src/matfyz_nswi177_cechlu_project_name.egg-info/SOURCES.txt
+src/matfyz_nswi177_cechlu_project_name.egg-info/dependency_links.txt
+src/matfyz_nswi177_cechlu_project_name.egg-info/not-zip-safe
+src/matfyz_nswi177_cechlu_project_name.egg-info/top_level.txt
